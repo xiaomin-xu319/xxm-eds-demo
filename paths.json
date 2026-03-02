@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/xxm-eds-demo/:/"
+    "/content/xxm-eds-demo/:/",
+    "/content/xxm-eds-demo/configuration:/.helix/config.json",
+    "/content/xxm-eds-demo/metadata:/metadata.json"
   ],
   "includes": [
     "/content/xxm-eds-demo/"
